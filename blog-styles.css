@@ -1,0 +1,27 @@
+header{
+	background-color:#f6c4f0;
+	color:#856682;
+	text-align: center;
+	padding: 20px;
+}
+nav{
+	background-color:#73bd99;
+}
+body
+{
+	font-family: Aerial;
+	text-align: center;
+	padding: 20px;
+}
+.categories{
+	text-align: center;
+	padding: 20px;
+}
+.about{
+	text-align: center;
+	padding: 20px;
+}
+.contact{
+	text-align: center;
+	padding: 20px;
+}
